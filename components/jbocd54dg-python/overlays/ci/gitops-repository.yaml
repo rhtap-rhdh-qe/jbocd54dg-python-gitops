@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jbocd54dg-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jbocd54dg-python-gitops
